@@ -2,12 +2,12 @@
 
 # Introduction
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolingual corpus was taken from [BHLTR](https://github.com/shashwatup9k/bho-resources) project. It was intially initiated by [Atul](https://www.nuigalway.ie/science-engineering/staff-profiles/atulkumarojha/). The Bhojpuri morphological annotated data is prepared jointly by [Panlingua Language Processing LLP](http://panlingua.co.in/), [IIT-KGP](http://www.iitkgp.ac.in/) and [KMI-Agra](https://www.ctrans.in/departments/linguistics).
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) monolingual corpus was taken from [BHLTR](https://github.com/shashwatup9k/bho-resources) project. It was intially by [Atul](https://www.nuigalway.ie/science-engineering/staff-profiles/atulkumarojha/). The Bhojpuri morphological annotated project is prepared jointly by [Panlingua Language Processing LLP](http://panlingua.co.in/), [IIT-KGP](http://www.iitkgp.ac.in/) and [KMI-Agra](https://www.ctrans.in/departments/linguistics).
 
 
 # Acknowledgments
 
-We would like to thanks the [Department of Science Technology](https://dst.gov.in) for giving the grant to organise [International Workshop On Technology And Resource Development For Low Resourced South Asian Languages](https://dst.gov.in/sites/default/files/Announcement%20of%20results%20of%20Indo-SriLanka%20Joint%20bilateral%20Call-2019%20%281%29.pdf). The workshop will be organised by IIT-KGP and University of Moratuwa, Sri Lanka. 
+We would like to thanks the [Department of Science Technology](https://dst.gov.in) for giving the grant to organise [International Workshop On Technology And Resource Development For Low Resourced South Asian Languages](https://dst.gov.in/sites/default/files/Announcement%20of%20results%20of%20Indo-SriLanka%20Joint%20bilateral%20Call-2019%20%281%29.pdf). The workshop will be organised by [IIT-KGP](http://www.iitkgp.ac.in/) and [University of Moratuwa, Sri Lanka](https://uom.lk/). 
 
 ## References
 If you use this data, please cite:
