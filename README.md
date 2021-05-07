@@ -37,8 +37,8 @@ and
 Data available since: BHO-Morph
 License: CC BY-NC-SA 4.0
 Includes text: yes
-Contributors: Ojha, Atul Kr.
-Copyright (©) holder: Panlingua Language Processing LLP, IIT-KGP, University of Moratuwa, Sri Lanka and KMI-Agra .
+Contributors: Panlingua; IIT-KGP; KMI-Agra; University of Moratuwa, Sri Lanka ; Ojha, Atul Kr.
+Copyright (©) holder: Panlingua Language Processing LLP, IIT-KGP and KMI-Agra.
 Contact: panlingua@outlook.com
 ===============================================================================
 </pre>
